@@ -1,0 +1,142 @@
+[
+  {
+    "id": "action",
+    "name": "Action",
+    "description": "High-energy games with fast-paced gameplay",
+    "icon": "zap",
+    "gameCount": 45
+  },
+  {
+    "id": "adventure",
+    "name": "Adventure",
+    "description": "Explore new worlds and embark on epic journeys",
+    "icon": "compass",
+    "gameCount": 32
+  },
+  {
+    "id": "puzzle",
+    "name": "Puzzle",
+    "description": "Brain-teasing challenges and mind-bending riddles",
+    "icon": "puzzle",
+    "gameCount": 38
+  },
+  {
+    "id": "racing",
+    "name": "Racing",
+    "description": "High-speed thrills and competitive racing",
+    "icon": "car",
+    "gameCount": 28
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Athletic competitions and sports simulations",
+    "icon": "football",
+    "gameCount": 25
+  },
+  {
+    "id": "strategy",
+    "name": "Strategy",
+    "description": "Tactical thinking and strategic planning games",
+    "icon": "chess",
+    "gameCount": 22
+  },
+  {
+    "id": "arcade",
+    "name": "Arcade",
+    "description": "Classic arcade-style games with retro charm",
+    "icon": "gamepad-2",
+    "gameCount": 41
+  },
+  {
+    "id": "shooting",
+    "name": "Shooting",
+    "description": "Target practice and combat shooting games",
+    "icon": "target",
+    "gameCount": 34
+  },
+  {
+    "id": "platformer",
+    "name": "Platformer",
+    "description": "Jump and run through challenging levels",
+    "icon": "mountain",
+    "gameCount": 29
+  },
+  {
+    "id": "rpg",
+    "name": "RPG",
+    "description": "Role-playing games with character development",
+    "icon": "sword",
+    "gameCount": 18
+  },
+  {
+    "id": "simulation",
+    "name": "Simulation",
+    "description": "Realistic simulations of various activities",
+    "icon": "settings",
+    "gameCount": 21
+  },
+  {
+    "id": "fighting",
+    "name": "Fighting",
+    "description": "Combat and martial arts competitions",
+    "icon": "shield",
+    "gameCount": 16
+  },
+  {
+    "id": "casual",
+    "name": "Casual",
+    "description": "Easy-to-play games for relaxation",
+    "icon": "coffee",
+    "gameCount": 52
+  },
+  {
+    "id": "multiplayer",
+    "name": "Multiplayer",
+    "description": "Play with friends and compete online",
+    "icon": "users",
+    "gameCount": 24
+  },
+  {
+    "id": "educational",
+    "name": "Educational",
+    "description": "Learn while you play with educational content",
+    "icon": "book",
+    "gameCount": 19
+  },
+  {
+    "id": "horror",
+    "name": "Horror",
+    "description": "Scary and thrilling supernatural experiences",
+    "icon": "ghost",
+    "gameCount": 13
+  },
+  {
+    "id": "card",
+    "name": "Card Games",
+    "description": "Classic and modern card game variations",
+    "icon": "spade",
+    "gameCount": 15
+  },
+  {
+    "id": "board",
+    "name": "Board Games",
+    "description": "Digital versions of classic board games",
+    "icon": "grid-3x3",
+    "gameCount": 12
+  },
+  {
+    "id": "music",
+    "name": "Music & Rhythm",
+    "description": "Musical games and rhythm challenges",
+    "icon": "music",
+    "gameCount": 11
+  },
+  {
+    "id": "trivia",
+    "name": "Trivia & Quiz",
+    "description": "Test your knowledge with fun quizzes",
+    "icon": "help-circle",
+    "gameCount": 17
+  }
+]
